@@ -1,5 +1,5 @@
 {
-	"name": "your-module-name",
+	"name": "sennheiser-adn-mediactrl",
 	"version": "0.1.0",
 	"main": "main.js",
 	"scripts": {
@@ -8,7 +8,7 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/bitfocus/companion-module-your-module-name.git"
+		"url": "git+https://github.com/bitfocus/companion-module-sennheiser-adn-mediactrl.git"
 	},
 	"dependencies": {
 		"@companion-module/base": "~1.4.0"
