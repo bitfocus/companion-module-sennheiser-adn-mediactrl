@@ -1,12 +1,12 @@
 {
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
+	"id": "sennheiser-adn-mediactrl",
+	"name": "Sennheiser ADN MediaCtrl",
+	"shortname": "adn",
+	"description": "Make use of Sennheiser ADN MediaCtrl",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"repository": "git+https://github.com/bitfocus/companion-module-sennheiser-adn-mediactrl.git",
+	"bugs": "https://github.com/bitfocus/companion-module-sennheiser-adn-mediactrl/issues",
 	"maintainers": [
 		{
 			"name": "Your name",
@@ -20,7 +20,7 @@
 		"entrypoint": "../main.js"
 	},
 	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
-	"keywords": []
+	"manufacturer": "sennheiser",
+	"products": ["adn mediactrl"],
+	"keywords": ["adn", "mediactrl"]
 }
